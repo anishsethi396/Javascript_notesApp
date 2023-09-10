@@ -1,1 +1,2 @@
-# Javascrip_notesApp
+# Javascript_notesApp
+Simple Note App
